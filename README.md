@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game and Software Development
 - 🌱 I’m currently building a Game Engine
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me thegemdev@gmail.com
+- 📫 How to reach me gemmomoh@gmail.com
 
 <!---
 gemmomoh/gemmomoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
